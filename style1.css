@@ -60,12 +60,12 @@ a {
   width: 185px;
   height: 185px;
   border-radius: 50%;
-  align: middle;
+  margin: auto;
+  display: block;
 }
 .avatar2 {
     vertical-align: middle;
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    align: middle;
 }
